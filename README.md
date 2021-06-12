@@ -7,4 +7,4 @@ This project includes:
 2. Death rates recovery rates are also visualized.
 3. Visualisations for people vaccinated with only one dose and also for fully vaccinated people.
 4. Which vaccine brands are used by varios country over the world.
-5. Lastly trends for ** "INDIA" ** are shown having rise in cases, death rates, recovery rate and vaccination rate.
+5. Lastly trends for **"INDIA"** are shown having rise in cases, death rates, recovery rate and vaccination rate.
