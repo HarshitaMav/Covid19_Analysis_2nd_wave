@@ -10,4 +10,6 @@ This project includes:
 5. Lastly trends for **"INDIA"** are shown having rise in cases, death rates, recovery rate and vaccination rate.
 
 
-Kaggle report : [Report](https://www.kaggle.com/harsitamav123/covid-19-the-world-threat)
+Kaggle Notebook : [Notebook](https://www.kaggle.com/harsitamav123/covid-19-the-world-threat)
+
+Medium Report : [Report](https://harsita-mav.medium.com/covid-19-the-world-threat-d9ac2750f627)
